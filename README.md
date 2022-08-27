@@ -1,5 +1,5 @@
 # Mision Etapa-02
-## En este repositorio se ubican los documentos necesarios para la evaluación de la Misión Etapa-02 (Seminario de capacitación) del Equipo Kepler. }
+## En este repositorio se ubican los documentos necesarios para la evaluación de la Misión Etapa-02 (Seminario de capacitación) del Equipo Kepler. 
 
 En en el repositorio se podrán ubicar varios documentos, cada uno de ellos cuenta con una parte importante de la evaluación:
 
